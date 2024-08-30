@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 17,
+  "nativeMenus": false,
+  "translucency": true,
+  "showViewHeader": true,
+  "interfaceFontFamily": "LXGW WenKai",
+  "textFontFamily": "LXGW WenKai",
+  "monospaceFontFamily": "LXGW WenKai Mono",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "ImproveCanvasPerformance"
+  ]
+}
